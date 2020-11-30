@@ -3,4 +3,4 @@
 <h3>main page<h3>
 
 
-<?php include "headfooterer.php";?>
+<?php include "footer.php";?>
